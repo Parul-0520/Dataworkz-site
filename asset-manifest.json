@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dataworkz-site/static/css/main.758e3b98.css",
-    "main.js": "/Dataworkz-site/static/js/main.3122250f.js",
+    "main.js": "/Dataworkz-site/static/js/main.29104a85.js",
     "static/media/gpt.jpg": "/Dataworkz-site/static/media/gpt.849067ea6e24faeec38e.jpg",
     "static/media/custo2.jpg": "/Dataworkz-site/static/media/custo2.2fd6fca12c0252225d09.jpg",
     "static/media/product.webp": "/Dataworkz-site/static/media/product.547253f890fa2ce0c54c.webp",
@@ -10,10 +10,10 @@
     "static/media/soc2.jpg": "/Dataworkz-site/static/media/soc2.441b047b9a63be63d5c9.jpg",
     "index.html": "/Dataworkz-site/index.html",
     "main.758e3b98.css.map": "/Dataworkz-site/static/css/main.758e3b98.css.map",
-    "main.3122250f.js.map": "/Dataworkz-site/static/js/main.3122250f.js.map"
+    "main.29104a85.js.map": "/Dataworkz-site/static/js/main.29104a85.js.map"
   },
   "entrypoints": [
     "static/css/main.758e3b98.css",
-    "static/js/main.3122250f.js"
+    "static/js/main.29104a85.js"
   ]
 }
